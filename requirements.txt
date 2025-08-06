@@ -2,3 +2,4 @@ pypdf2
 sentence-transformers 
 pandas 
 streamlit
+openai
