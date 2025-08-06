@@ -2,4 +2,4 @@ pypdf2
 sentence-transformers 
 pandas 
 streamlit
-openai
+openai==0.28
